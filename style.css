@@ -63,6 +63,11 @@ li button {
     font-weight: bold;
 }
 
+#resize-button {
+    margin-top: 25px;
+    width: 125px;
+}
+
 /*slide*/
 
 .slider {
@@ -113,7 +118,6 @@ li button {
     text-align: center;
     background-color: white;
     flex: auto;
-    border: 1px solid black;
 }
 
 
